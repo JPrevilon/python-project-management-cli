@@ -22,4 +22,8 @@ A Python-based command-line application for managing users, projects, and tasks 
 - python-dateutil
 - pytest
 
+## CLI Dashboard
+
+Future feature: terminal dashboard showing project statistics.
+
 Made And Completed By Joshua Previlon

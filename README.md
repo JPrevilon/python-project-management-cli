@@ -21,3 +21,5 @@ A Python-based command-line application for managing users, projects, and tasks 
 - rich
 - python-dateutil
 - pytest
+
+Made And Completed By Joshua Previlon
